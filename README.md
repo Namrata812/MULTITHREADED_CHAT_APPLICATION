@@ -26,3 +26,5 @@ The server uses a separate thread for each connected client to ensure that all c
 
 # OUTPUT OF THE TASK 
 
+![Image](https://github.com/user-attachments/assets/769deb9e-5695-44bc-940a-20b461f41fd5)
+
