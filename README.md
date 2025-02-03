@@ -28,3 +28,5 @@ The server uses a separate thread for each connected client to ensure that all c
 
 ![Image](https://github.com/user-attachments/assets/769deb9e-5695-44bc-940a-20b461f41fd5)
 
+![Image](https://github.com/user-attachments/assets/e0048bdb-95e4-4f57-8ece-c6bf5287961f)
+
