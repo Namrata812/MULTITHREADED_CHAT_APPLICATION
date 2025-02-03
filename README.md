@@ -30,3 +30,5 @@ The server uses a separate thread for each connected client to ensure that all c
 
 ![Image](https://github.com/user-attachments/assets/e0048bdb-95e4-4f57-8ece-c6bf5287961f)
 
+![Image](https://github.com/user-attachments/assets/4508ba01-f2ea-4a53-b58d-61da2a0d6fb0)
+
